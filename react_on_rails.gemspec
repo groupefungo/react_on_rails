@@ -32,7 +32,7 @@ Gem::Specification.new do |s|
   s.add_dependency "rails", ">= 3.2"
   s.add_dependency "addressable"
 
-  s.add_development_dependency "rails", "~> 5.1.2"
+  s.add_development_dependency "rails", "~> 5.0.0"
   s.add_development_dependency "bundler", "~> 1.10"
   s.add_development_dependency "rake", "~> 10.0"
   s.add_development_dependency "listen"
